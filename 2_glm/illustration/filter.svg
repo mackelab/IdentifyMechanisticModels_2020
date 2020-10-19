@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="125.28pt" version="1.1" viewBox="0 0 181.8 125.28" width="181.8pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 125.28 
+L 181.8 125.28 
+L 181.8 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path clip-path="url(#pba7e67ab62)" d="M 11.185714 79.587811 
+L 31.114286 47.884876 
+L 51.042857 36.283786 
+L 70.971429 43.914546 
+L 90.9 58.548822 
+L 110.828571 72.157475 
+L 130.757143 82.03178 
+L 150.685714 88.28624 
+L 170.614286 91.913839 
+" style="fill:none;stroke:#30c05d;stroke-linecap:square;stroke-width:1.5;"/>
+    <defs>
+     <path d="M 0 1.5 
+C 0.397805 1.5 0.77937 1.341951 1.06066 1.06066 
+C 1.341951 0.77937 1.5 0.397805 1.5 0 
+C 1.5 -0.397805 1.341951 -0.77937 1.06066 -1.06066 
+C 0.77937 -1.341951 0.397805 -1.5 0 -1.5 
+C -0.397805 -1.5 -0.77937 -1.341951 -1.06066 -1.06066 
+C -1.341951 -0.77937 -1.5 -0.397805 -1.5 0 
+C -1.5 0.397805 -1.341951 0.77937 -1.06066 1.06066 
+C -0.77937 1.341951 -0.397805 1.5 0 1.5 
+z
+" id="m1b20c0db5d" style="stroke:#30c05d;"/>
+    </defs>
+    <g clip-path="url(#pba7e67ab62)">
+     <use style="fill:#30c05d;stroke:#30c05d;" x="11.185714" xlink:href="#m1b20c0db5d" y="79.587811"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="31.114286" xlink:href="#m1b20c0db5d" y="47.884876"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="51.042857" xlink:href="#m1b20c0db5d" y="36.283786"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="70.971429" xlink:href="#m1b20c0db5d" y="43.914546"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="90.9" xlink:href="#m1b20c0db5d" y="58.548822"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="110.828571" xlink:href="#m1b20c0db5d" y="72.157475"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="130.757143" xlink:href="#m1b20c0db5d" y="82.03178"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="150.685714" xlink:href="#m1b20c0db5d" y="88.28624"/>
+     <use style="fill:#30c05d;stroke:#30c05d;" x="170.614286" xlink:href="#m1b20c0db5d" y="91.913839"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pba7e67ab62">
+   <rect height="110.88" width="167.4" x="7.2" y="7.2"/>
+  </clipPath>
+ </defs>
+</svg>
